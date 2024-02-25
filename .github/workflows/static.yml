@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://france-nuit.github.io/
+      url: https://france-nuit.github.io/article
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
