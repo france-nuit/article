@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "france-nuit • All posts by \"author\" category",
+    "description": "",
+    "home_page_url": "https://france-nuit.github.io/article",
+    "items": [
+        {
+            "id": "https://france-nuit.github.io/article/2023/12/30/author/Raminagrobis/",
+            "url": "https://france-nuit.github.io/article/2023/12/30/author/Raminagrobis/",
+            "title": "Raminagrobis",
+            "date_published": "2023-12-30T16:44:28.000Z",
+            "content_html": " <script src=\"https://tarteaucitron.io/load.js?domain=france-nuit.github.io%2Farticle&uuid=7ad0ee3e13c839d862bd099afae9f7b55179a0d0\"></script>\n",
+            "tags": []
+        },
+        {
+            "id": "https://france-nuit.github.io/article/2023/12/30/author/arbinger/",
+            "url": "https://france-nuit.github.io/article/2023/12/30/author/arbinger/",
+            "title": "arbinger",
+            "date_published": "2023-12-30T16:18:16.000Z",
+            "content_html": " <script src=\"https://tarteaucitron.io/load.js?domain=france-nuit.github.io%2Farticle&uuid=7ad0ee3e13c839d862bd099afae9f7b55179a0d0\"></script>\n<p> redacteur en  chef du site je suis aussi en charge de la partie technique donc en cas de bug c’est moi  qui repare </p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://france-nuit.github.io/article/2023/12/30/author/15locraft/",
+            "url": "https://france-nuit.github.io/article/2023/12/30/author/15locraft/",
+            "title": "15locraft",
+            "date_published": "2023-12-30T16:18:16.000Z",
+            "content_html": " <script src=\"https://tarteaucitron.io/load.js?domain=france-nuit.github.io%2Farticle&uuid=7ad0ee3e13c839d862bd099afae9f7b55179a0d0\"></script>\n<p>Créateur du média parodique France-Nuit.<br>Community Manager du compte Twitter de France-Nuit.<br>Fact checke à ses heures perdues,<br>Fait du bénévolat au sein de WeGeek</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://france-nuit.github.io/article/2023/12/30/author/La%20plume%20du%20corbeau/",
+            "url": "https://france-nuit.github.io/article/2023/12/30/author/La%20plume%20du%20corbeau/",
+            "title": "la plume du corbeau",
+            "date_published": "2023-12-30T16:18:16.000Z",
+            "content_html": "<p>Journaliste sur France-Nuit, spécialisé dans la politique et en économie, dont dans tout car la politique et la finance domine le monde.</p>\n",
+            "tags": []
+        }
+    ]
+}
